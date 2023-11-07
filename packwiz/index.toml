@@ -164,11 +164,6 @@ hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
 metafile = true
 
 [[files]]
-file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "f15ec0e6a22a2af1087102489a607c6e4fba1edb3e58d52eb3ede77ad0a8d826"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
 metafile = true

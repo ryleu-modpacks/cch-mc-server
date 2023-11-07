@@ -9,16 +9,16 @@ services:
       - "25565:25565"
     environment:
       TYPE: "FABRIC"
-      PACKWIZ_URL: "https://ryleu.me/cch-minecraft-server/packwiz/packwiz.toml"
+      PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
       EULA: "TRUE"
       MOTD: "CCH Server"
       MEMORY: "4G"
       DIFFICULTY: "HARD"
       SPAWN_PROTECTION: "0"
       VIEW_DISTANCE: "8"
-      OPS_FILE: "https://ryleu.me/cch-minecraft-server/ops.json"
+      OPS_FILE: "https://ryleu.me/cch-mc-server/ops.json"
       EXISTING_WHITELIST_FILE: "SYNCHRONIZE"
-      WHITELIST_FILE: "https://ryleu.me/cch-minecraft-server/whitelist.json"
+      WHITELIST_FILE: "https://ryleu.me/cch-mc-server/whitelist.json"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
