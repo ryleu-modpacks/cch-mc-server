@@ -1,0 +1,194 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bluemap/core.conf"
+hash = "d696f3229b44fe66ca6ae219cbf9483683e9c5d4bfb0db198a8d24a3cc82c5ec"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "309861d965764d7a46f008a5e8ee21547b423718a071c6f3887c91b4424fc986"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "934e49680173ec8ed26f496b0ba97e312204feca4e9d4ab8503217f667d9ef03"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "13678464886e8083f408b0a93f7a85cece600f90ab6a116df14f0b51ac19be3d"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "f0e3f0178d1f8da2487cbb0cea687f441b84109e9f1030e2974d88fe10210aab"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "9d40ed4800caf4c3fa848d986f8a6c947c00ae215c5179711b212204cb6cea6a"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "38f194c54cd4bc899339fc5089c8da5c3650ffcf0c65ad26d4ecd8220c399368"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "73c09d18a497f823ff4d14fbd4ecd029b8ddeffec7c3927927e061067b847ad0"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3346013c36376766f129ff9f6329a671b7d6f0e1d7bcdddb711a2f71811af0cd"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "ba96425eca5f340280b389ca977142a360f9c58b564e60d23bb15674cb0b9f58"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "ebc95d8dac761549f43c49938b8d1a0044a43af4484f492959de83a2bdc9e267"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "bb70f766929c25f86baf90ee62a8639cf5b6c59caea51fd6f16e1e0f733bd2af"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "e305b67de7dacefd4004b6ae0c5ef24a79cfd85fe6e0a5cf4be1e99033409f6f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/headfix.pw.toml"
+hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "c130a744cedcccadda21f8e06f0c01f5661984a5652706c2b617b825a8745491"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "f999930809222b57898da25a30aad2135b02894f42c0e1d2832c4670272fbd1d"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "df3bf405458a14ae114177c33956530f4fe98b2962b9446e9b7955c5e09dee17"
+metafile = true
+
+[[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "28c6628c17eabf890ddbb48344b2cc578677994968f6e610e63b6a25f68d694d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "293f06651cc903947ae422f5e612c73d66154453ad1390bda63920370671b968"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a7c7e830952f80555b8d98029186f02e7ad5b5a837d6b10d399525022848de74"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "f15ec0e6a22a2af1087102489a607c6e4fba1edb3e58d52eb3ede77ad0a8d826"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1f922cadccd8b79e824e78d5e2e691e65127e7a500723121a6a6ccc6a1060289"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "f3e505cc738b5419bf6aeef23be58b9c143cd582a2582947ac9bb3a2077bca8d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d57b7803d75fed29ef38893ce04879b10ab6e1a23438c211e0682e0729ba0d83"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3fd697e0539879163b6a5649a587a4a82a2be58fb12e63128114f631a060adc8"
+metafile = true

@@ -1,0 +1,22 @@
+name: Packwiz
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Copy Files
+        run: |
+          rm -rf ../build/packwiz
+          mkdir -p ../build/packwiz
+          cp -r ./packwiz/* ../build/packwiz
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ../build/
+          keep_files: true
+          full_commit_message: update pack
