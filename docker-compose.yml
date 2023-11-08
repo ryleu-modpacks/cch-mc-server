@@ -18,15 +18,15 @@ services:
     environment:
       TYPE: "FABRIC"
       PACKWIZ_URL: "http://web/packwiz/pack.toml"
-      EULA: "TRUE"
+      EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
-      SPAWN_PROTECTION: "0"
-      VIEW_DISTANCE: "6"
+      SPAWN_PROTECTION: 0
+      VIEW_DISTANCE: 6
       OPS_FILE: "http://web/minecraft/ops.json"
-      ENABLE_WHITELIST: "false"
+      ENABLE_WHITELIST: false
       MEMORY: "4G"
-      USE_AIKAR_FLAGS: "true"
+      USE_AIKAR_FLAGS: true
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
