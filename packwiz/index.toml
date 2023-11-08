@@ -68,11 +68,6 @@ hash = "3822ac5d3cabda8f276067539162bf30718f7349c5486e9aa6255abc69a72cb8"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "501a3751c948dcc467d4ba221f66816809e89b3a63f0b572dab1db29adb9e696"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "a5eac6a8d140ee215411d88e61bf9b53a2a26021032b65cffc0924403475dbba"
 metafile = true
@@ -315,16 +310,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d57b7803d75fed29ef38893ce04879b10ab6e1a23438c211e0682e0729ba0d83"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "4dfb8c7a129eb556838a55b899c0565ff68e616f0e15eba1aa8f5d579d43bd6e"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "9fe0ac24d757dd333a235ee9db1dfc61f06d0586146b3ed760783c060d87116e"
 metafile = true
 
 [[files]]
