@@ -15,12 +15,13 @@ services:
       PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
       EULA: "TRUE"
       MOTD: "CCH Server"
-      MEMORY: "4G"
       DIFFICULTY: "HARD"
       SPAWN_PROTECTION: "0"
-      VIEW_DISTANCE: "8"
+      VIEW_DISTANCE: "6"
       OPS_FILE: "https://ryleu.me/cch-mc-server/ops.json"
-      ENFORCE_WHITELIST: "false"
+      ENABLE_WHITELIST: "false"
+      MEMORY: "4G"
+      USE_AIKAR_FLAGS: "true"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
