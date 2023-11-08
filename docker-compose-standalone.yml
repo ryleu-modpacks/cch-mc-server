@@ -1,6 +1,13 @@
 version: "3.8"
 
 services:
+  web:
+    image: nginx:alpine
+    restart: always
+    attach: false
+    volumes:
+      - ./packwiz:/usr/share/nginx/html/packwiz:ro
+      - ./minecraft:/usr/share/nginx/html/minecraft:ro
   mc:
     image: itzg/minecraft-server
     tty: true
@@ -12,14 +19,14 @@ services:
     attach: true
     environment:
       TYPE: "FABRIC"
-      PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
+      PACKWIZ_URL: "http://web/packwiz/pack.toml"
       EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
       SEED: "-7203507603979108244"
       SPAWN_PROTECTION: 0
       VIEW_DISTANCE: 6
-      OPS_FILE: "https://ryleu.me/cch-mc-server/minecraft/ops.json"
+      OPS_FILE: "http://web/minecraft/ops.json"
       ENABLE_WHITELIST: false
       MEMORY: "4G"
       USE_AIKAR_FLAGS: true
