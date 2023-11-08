@@ -3,6 +3,8 @@ version: "3.8"
 services:
   web:
     image: nginx:alpine
+    restart: always
+    attach: false
     volumes:
       - ./packwiz:/usr/share/nginx/html/packwiz:ro
       - ./minecraft:/usr/share/nginx/html/minecraft:ro
@@ -14,7 +16,7 @@ services:
       - "25565:25565" # minecraft
       - "8123:8100" # bluemap
     restart: always
-    attach: false
+    attach: true
     environment:
       TYPE: "FABRIC"
       PACKWIZ_URL: "http://web/packwiz/pack.toml"
@@ -25,7 +27,7 @@ services:
       VIEW_DISTANCE: 6
       OPS_FILE: "http://web/minecraft/ops.json"
       ENABLE_WHITELIST: false
-      MEMORY: "4G"
+      MEMORY: "2G"
       USE_AIKAR_FLAGS: true
     volumes:
       # attach the relative directory 'data' to the container's /data path
