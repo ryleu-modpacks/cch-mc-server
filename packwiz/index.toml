@@ -26,7 +26,7 @@ hash = "13678464886e8083f408b0a93f7a85cece600f90ab6a116df14f0b51ac19be3d"
 
 [[files]]
 file = "config/bluemap/webserver.conf"
-hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
+hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
