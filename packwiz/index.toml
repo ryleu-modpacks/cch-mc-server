@@ -118,11 +118,6 @@ hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "c3db7d59e69e69067942dd7e5bfd71bb10ca823c60198c92727c071f022f2789"
-metafile = true
-
-[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "ba96425eca5f340280b389ca977142a360f9c58b564e60d23bb15674cb0b9f58"
 metafile = true
