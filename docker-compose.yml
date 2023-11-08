@@ -20,8 +20,7 @@ services:
       SPAWN_PROTECTION: "0"
       VIEW_DISTANCE: "8"
       OPS_FILE: "https://ryleu.me/cch-mc-server/ops.json"
-      EXISTING_WHITELIST_FILE: "SYNCHRONIZE"
-      WHITELIST_FILE: "https://ryleu.me/cch-mc-server/whitelist.json"
+      ENFORCE_WHITELIST: "false"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
