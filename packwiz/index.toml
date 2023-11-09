@@ -323,6 +323,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "be279645ea0cbffc9bfff8b8365cc6f1f24cc3d8ef7532884b1bdeb24c213127"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "f3e505cc738b5419bf6aeef23be58b9c143cd582a2582947ac9bb3a2077bca8d"
 metafile = true
