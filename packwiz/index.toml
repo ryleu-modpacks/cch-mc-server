@@ -49,6 +49,10 @@ file = "config/commandaliases/unclaim.json"
 hash = "95744d414850c77908c947a2cdf7f25b82617dde547a28f7e66c342cde1d31e8"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "ff7c7ccf982b026e4ba6875da4bd75c3b5781d1466d9b234f37fd186ff739609"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
