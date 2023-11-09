@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/antixray.toml"
+hash = "ff7c69e82fa9ff02e46e22a6620b035029b88dc94706b879738807cad52807e0"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "d696f3229b44fe66ca6ae219cbf9483683e9c5d4bfb0db198a8d24a3cc82c5ec"
 
@@ -26,7 +30,7 @@ hash = "13678464886e8083f408b0a93f7a85cece600f90ab6a116df14f0b51ac19be3d"
 
 [[files]]
 file = "config/bluemap/webserver.conf"
-hash = "ddf324792ac01b6f017f4b3d6535849fddd93cfee73687a9351e8a4fdb68d99c"
+hash = "0c8a3f7770c197b6ad51e4fe4e033cc15bc4899abdc7a15d7dbcffd433c19e29"
 
 [[files]]
 file = "config/bluemapsignmarkers/BMSM-Core.json"
