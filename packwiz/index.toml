@@ -33,6 +33,22 @@ file = "config/bluemapsignmarkers/BMSM-Core.json"
 hash = "1ef3d58da4d42b75cd1469d2d3cd819601626753661ccb38df530b3c46da71ef"
 
 [[files]]
+file = "config/commandaliases/claim.json"
+hash = "55461920dc24a96da938e5a9a7662a31eb40acb81734a79151ce0bc5c1b9cc7c"
+
+[[files]]
+file = "config/commandaliases/die.json"
+hash = "dc24ad1e9c3fabbe7f7304250bba17d8023e561781ec7d2a0893f19735cbd29c"
+
+[[files]]
+file = "config/commandaliases/party.json"
+hash = "c2e763012a78b63d4a978a4e8d99b324adb3e8a92097b41de11f9c263413b086"
+
+[[files]]
+file = "config/commandaliases/unclaim.json"
+hash = "95744d414850c77908c947a2cdf7f25b82617dde547a28f7e66c342cde1d31e8"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
@@ -115,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+metafile = true
+
+[[files]]
+file = "mods/commandaliases.pw.toml"
+hash = "a2b51afdbe0583fa3f7678e0337ff548f951d41fa6929d3d4d46784f5b43354e"
 metafile = true
 
 [[files]]
