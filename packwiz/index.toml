@@ -57,6 +57,30 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "ff7c7ccf982b026e4ba6875da4bd75c3b5781d1466d9b234f37fd186ff739609"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "b669922cdae70ab25736226654576fa2e79be5a7e3b900e0f72cfc14da355f15"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "03b7c78309b9430621cace6d5707c90802ce6aac7cb8a8176e87bef2bdcedf76"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
