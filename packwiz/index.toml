@@ -37,6 +37,10 @@ file = "config/bluemapsignmarkers/BMSM-Core.json"
 hash = "1ef3d58da4d42b75cd1469d2d3cd819601626753661ccb38df530b3c46da71ef"
 
 [[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
 file = "config/commandaliases/claim.json"
 hash = "55461920dc24a96da938e5a9a7662a31eb40acb81734a79151ce0bc5c1b9cc7c"
 
