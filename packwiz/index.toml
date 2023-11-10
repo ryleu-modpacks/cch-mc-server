@@ -38,7 +38,7 @@ hash = "1ef3d58da4d42b75cd1469d2d3cd819601626753661ccb38df530b3c46da71ef"
 
 [[files]]
 file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
 
 [[files]]
 file = "config/commandaliases/claim.json"
