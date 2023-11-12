@@ -390,7 +390,7 @@ hash = "0871986a848e2df00d403e896ac3056529382328cd15fa41d28a84cf9afc2bc5"
 
 [[files]]
 file = "world/datapacks/cch/data/cch/functions/tick.mcfunction"
-hash = "e2e8bbd4a2413150959f826cb7fd4d5947d5456654d8669c77d1dc04c5feb53f"
+hash = "4628ee8462e52d40505bcb3c4a02bf89d97138cb60f279e9c24885e66d53346c"
 
 [[files]]
 file = "world/datapacks/cch/data/cch/tags/entity_types/passive_mobs.json"
