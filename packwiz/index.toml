@@ -350,6 +350,11 @@ hash = "13fd8c428913a21edea0e52118db7dbb3359321d1ac665dcafe7058dd3d3afce"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ff614f50beb3bc29a699dbcc0a61f65bd6c6154cd374f2763ee57cf578045a8f"
 metafile = true
@@ -386,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/cch/data/cch/functions/load.mcfunction"
-hash = "0871986a848e2df00d403e896ac3056529382328cd15fa41d28a84cf9afc2bc5"
+hash = "214fdbefde8b51ab631a81c79de0fbc8887d0313c9310093aec3b657a5d637c5"
 
 [[files]]
 file = "world/datapacks/cch/data/cch/functions/tick.mcfunction"
