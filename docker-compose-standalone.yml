@@ -4,7 +4,6 @@ services:
   web:
     image: nginx:alpine
     restart: always
-    attach: false
     volumes:
       - ./packwiz:/usr/share/nginx/html/packwiz:ro
       - ./minecraft:/usr/share/nginx/html/minecraft:ro
