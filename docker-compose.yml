@@ -9,7 +9,6 @@ services:
       - "25565:25565" # minecraft
       - "8100:80" # bluemap
     restart: always
-    attach: true
     environment:
       TYPE: "FABRIC"
       PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
