@@ -14,7 +14,7 @@ hash = "309861d965764d7a46f008a5e8ee21547b423718a071c6f3887c91b4424fc986"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
-hash = "934e49680173ec8ed26f496b0ba97e312204feca4e9d4ab8503217f667d9ef03"
+hash = "fcf3f96b6f781e3d19bfe2cf9e0591fae741239870d48fbc7c96bfef4cad66b1"
 
 [[files]]
 file = "config/bluemap/storages/file.conf"
