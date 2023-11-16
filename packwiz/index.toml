@@ -53,6 +53,10 @@ file = "config/commandaliases/party.json"
 hash = "c2e763012a78b63d4a978a4e8d99b324adb3e8a92097b41de11f9c263413b086"
 
 [[files]]
+file = "config/commandaliases/spawn.json"
+hash = "5addbd334a82c103299efd71c58fb84865a756424f86495dcd33d9a46336c242"
+
+[[files]]
 file = "config/commandaliases/unclaim.json"
 hash = "95744d414850c77908c947a2cdf7f25b82617dde547a28f7e66c342cde1d31e8"
 
