@@ -274,11 +274,6 @@ hash = "5ba85e15fd70b8f68009ec186702495fe611a7a8ef389a04e9eda57a55eca94e"
 metafile = true
 
 [[files]]
-file = "mods/impersonate.pw.toml"
-hash = "6a2ae4aba6ba631e14fc28e30856227cb25ff3908781e136e2760423e9986b00"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
