@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Geyser-Fabric/config.yml"
+hash = "614a12d29bc53036b140635ac65d33c1d55e38ff93650aafb85e25ccaa8aa6c1"
+
+[[files]]
 file = "config/antixray.toml"
 hash = "ff7c69e82fa9ff02e46e22a6620b035029b88dc94706b879738807cad52807e0"
 
@@ -271,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "e00070f0db00ebcd304f8f68fd44e59ceaedbc8c27743c9c195134aae57c5fde"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "7a45ce282191ff7bfed51827b1e7db98ff8192eb531734fee681c54a5acbd2a3"
 metafile = true
 
 [[files]]
