@@ -169,6 +169,11 @@ hash = "66112808be4535b813a5294d662c3b466b18eec2347460c0066ffb229717014f"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "23f853b728ddac6b16bda262913a0dec4fff054e2de73e0dcef348791e68c1cc"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9ab9f1ada10bc693019cdfea96fa09bcbaa3f27c8350e2e23fc45927f838cd9b"
 metafile = true
