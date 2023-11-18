@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Geyser-Fabric/config.yml"
-hash = "614a12d29bc53036b140635ac65d33c1d55e38ff93650aafb85e25ccaa8aa6c1"
+hash = "73e239b56c9a043233a21b2709e2cc6888d54a51837b52604a705491697c4d31"
 
 [[files]]
 file = "config/antixray.toml"
