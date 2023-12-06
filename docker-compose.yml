@@ -24,6 +24,7 @@ services:
       WHITELIST_FILE: "https://ryleu.me/cch-mc-server/minecraft/whitelist.json"
       MEMORY: "6G"
       USE_AIKAR_FLAGS: true
+      VERSION: "1.20.2"
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
