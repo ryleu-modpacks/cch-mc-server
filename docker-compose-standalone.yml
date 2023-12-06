@@ -31,5 +31,6 @@ services:
       ENABLE_WHITELIST: false
       MEMORY: "4G"
       USE_AIKAR_FLAGS: true
+      VERSION: "1.20.2"
     volumes:
       - ./data:/data
