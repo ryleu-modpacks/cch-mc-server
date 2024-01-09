@@ -5,8 +5,16 @@ file = "plugins/BlueMap/core.conf"
 hash = "d696f3229b44fe66ca6ae219cbf9483683e9c5d4bfb0db198a8d24a3cc82c5ec"
 
 [[files]]
-file = "plugins/BlueMap/maps/overworld.conf"
-hash = "309861d965764d7a46f008a5e8ee21547b423718a071c6f3887c91b4424fc986"
+file = "plugins/BlueMap/maps/world.conf"
+hash = "82cabe7b963d8e520688f1d2bda6d75bec06c7a02050b7697b903008c5b9666e"
+
+[[files]]
+file = "plugins/BlueMap/maps/world_nether.conf"
+hash = "54b5a7876f4bc1d9ae61c8198329a229957107b465ee150a53001ff6ab3df2db"
+
+[[files]]
+file = "plugins/BlueMap/maps/world_the_end.conf"
+hash = "70416cb2ede63afcfd4f10f59f44a98a295c29bb56ae50550a10df04f52b3d54"
 
 [[files]]
 file = "plugins/BlueMap/plugin.conf"
