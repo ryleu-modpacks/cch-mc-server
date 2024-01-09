@@ -1,0 +1,13 @@
+name = "ViaVersion"
+filename = "ViaVersion-4.9.3-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P1OZGk5p/versions/dIdCPZMX/ViaVersion-4.9.3-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "c98ce312133316fb164ba9fc964fb0b28c0b3148"
+
+[update]
+[update.modrinth]
+mod-id = "P1OZGk5p"
+version = "dIdCPZMX"

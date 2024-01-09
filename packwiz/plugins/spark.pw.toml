@@ -1,0 +1,8 @@
+name = "spark"
+filename = "spark-1.10.52-bukkit-folia-patch-3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1149078798726340739/1193997166524498091/spark-1.10.52-bukkit-folia-patch-3.jar?ex=65aebf83&is=659c4a83&hm=a0f9ae4557eb69d99368db7fedd81ac8e1a62dedc8831b8301d86bbc81d5a130&"
+hash-format = "sha1"
+hash = "faa5f7a881034f36c09db87ccb8d8697b2bf0c90"

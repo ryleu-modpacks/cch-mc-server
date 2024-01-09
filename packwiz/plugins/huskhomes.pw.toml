@@ -1,0 +1,13 @@
+name = "HuskHomes"
+filename = "HuskHomes-Plugin-4.5.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/J6U9o3JG/versions/x68k8LdB/HuskHomes-Plugin-4.5.5.jar"
+hash-format = "sha1"
+hash = "920841459c876b92269ed90242cb7fa93b47dba5"
+
+[update]
+[update.modrinth]
+mod-id = "J6U9o3JG"
+version = "x68k8LdB"

@@ -1,0 +1,13 @@
+name = "Bolt"
+filename = "Bolt-1.0.520.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YqbUofZE/versions/3gQobYGm/Bolt-1.0.520.jar"
+hash-format = "sha1"
+hash = "a7d87468611ea88b52786d299f09a00df46c6ff1"
+
+[update]
+[update.modrinth]
+mod-id = "YqbUofZE"
+version = "3gQobYGm"

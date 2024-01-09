@@ -1,0 +1,8 @@
+name = "GrimAC"
+filename = "grimac-2.3.54.jar"
+side = "server"
+
+[download]
+url = "https://hangarcdn.papermc.io/plugins/GrimAnticheat/GrimAnticheat/versions/2.3.54/PAPER/grimac-2.3.54.jar"
+hash-format = "sha1"
+hash = "7e2bcdeab967c7bb0e1b497adc220aa557acdbb2"

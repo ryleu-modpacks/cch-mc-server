@@ -1,0 +1,13 @@
+name = "FreedomChat"
+filename = "FreedomChat-1.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MubyTbnA/versions/2oMfePJn/FreedomChat-1.5.1.jar"
+hash-format = "sha1"
+hash = "ee70d960fc483a01ea1697bbe3f431e05d8581bb"
+
+[update]
+[update.modrinth]
+mod-id = "MubyTbnA"
+version = "2oMfePJn"

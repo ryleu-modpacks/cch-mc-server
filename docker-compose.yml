@@ -7,24 +7,23 @@ services:
     stdin_open: true
     ports:
       - "25565:25565" # minecraft
-      - "19132:19132/tcp" # bedrock
-      - "19132:19132/udp" # bedrock
       - "8100:80" # bluemap
     restart: always
     environment:
-      TYPE: "FABRIC"
+      TYPE: "FOLIA"
       PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
       EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
       SEED: "-7203507603979108244"
       SPAWN_PROTECTION: 0
-      VIEW_DISTANCE: 6
+      VIEW_DISTANCE: 12
       OPS_FILE: "https://ryleu.me/cch-mc-server/minecraft/ops.json"
       WHITELIST_FILE: "https://ryleu.me/cch-mc-server/minecraft/whitelist.json"
       MEMORY: "6G"
       USE_AIKAR_FLAGS: true
       VERSION: "1.20.2"
+      ENFORCE_SECURE_PROFILE: false
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data

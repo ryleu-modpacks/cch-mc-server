@@ -1,0 +1,13 @@
+name = "AxGraves"
+filename = "AxGraves-1.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cz6msz34/versions/3ZDjHxUK/AxGraves-1.4.1.jar"
+hash-format = "sha1"
+hash = "2162d124f47619fbf8040f64a820675719bc1db9"
+
+[update]
+[update.modrinth]
+mod-id = "Cz6msz34"
+version = "3ZDjHxUK"
