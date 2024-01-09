@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "BlueMap-3.20-paper.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/pooqAXA1/BlueMap-3.20-paper.jar"
+hash-format = "sha1"
+hash = "4c5f6857157a402d9bf3ba088aa55e2b5032feda"
+
+[update]
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "pooqAXA1"

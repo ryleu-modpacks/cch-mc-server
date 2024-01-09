@@ -1,0 +1,13 @@
+name = "Orebfuscator"
+filename = "orebfuscator-plugin-5.4.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XY7PHeei/versions/gLVCjKOM/orebfuscator-plugin-5.4.3.jar"
+hash-format = "sha1"
+hash = "9772e6ae434d0c1300c44768873304efdd337d9a"
+
+[update]
+[update.modrinth]
+mod-id = "XY7PHeei"
+version = "gLVCjKOM"

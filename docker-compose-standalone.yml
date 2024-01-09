@@ -13,24 +13,23 @@ services:
     stdin_open: true
     ports:
       - "25565:25565" # minecraft
-      - "19132:19132/tcp" # bedrock
-      - "19132:19132/udp" # bedrock
-      - "8100:80" # bluemap
+      - "8100:8100" # bluemap
     restart: always
     attach: true
     environment:
-      TYPE: "FABRIC"
+      TYPE: "FOLIA"
       PACKWIZ_URL: "http://web/packwiz/pack.toml"
       EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
       SEED: "-7203507603979108244"
       SPAWN_PROTECTION: 0
-      VIEW_DISTANCE: 6
+      VIEW_DISTANCE: 12
       OPS_FILE: "http://web/minecraft/ops.json"
       ENABLE_WHITELIST: false
-      MEMORY: "4G"
+      MEMORY: "8G"
       USE_AIKAR_FLAGS: true
       VERSION: "1.20.2"
+      ENFORCE_SECURE_PROFILE: false
     volumes:
       - ./data:/data
