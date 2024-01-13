@@ -1,0 +1,13 @@
+name = "Tree Capitator"
+filename = "treecapitator-v2-8_2.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sl2hXng9/versions/4Wr1eR88/treecapitator-v2-8_2.zip"
+hash-format = "sha1"
+hash = "b65559b6c0bd120466b90f71327251e446546622"
+
+[update]
+[update.modrinth]
+mod-id = "Sl2hXng9"
+version = "4Wr1eR88"
