@@ -1,0 +1,28 @@
+# AutoTreeChop by Maoyue
+# Discord support server: https://discord.gg/uQ4UXANnP2
+# Spigot Page: https://www.spigotmc.org/resources/113071
+# Source code: https://github.com/milkteamc/AutoTreeChop
+
+# The plugin locale (<language>-<country>-<variant>)
+# en, de, en-US, de-DE, de-AU, ...
+locale: en
+
+# The number of times non-VIP players can chop down trees per day,
+# you can give everyone "autotreechop.vip" permission to disable it.
+max-uses-per-day: 2147483647
+
+# Tree blocks that non-VIP players can chop down every day,
+# you can give everyone "autotreechop.vip" permission to disable it.
+max-blocks-per-day: 2147483647
+
+# Use visual effect
+visual-effect: true
+
+# damage tool when chopping tree
+toolDamage: true
+
+# Stop chopping if the blocks are not connected (not part of the same tree)
+stopChoppingIfNotConnected: true
+
+# Stop chopping if the blocks are of different types
+stopChoppingIfDifferentTypes: true

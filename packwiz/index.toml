@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "plugins/AutoTreeChop/config.yml"
+hash = "270dd66f346cfc5dd72a6220a9c08522cbcf2ab0dd73b976640a44d81aec7d48"
+
+[[files]]
 file = "plugins/BlueMap/core.conf"
 hash = "d696f3229b44fe66ca6ae219cbf9483683e9c5d4bfb0db198a8d24a3cc82c5ec"
 
@@ -81,8 +85,14 @@ hash = "b3b2261e3ed0ad060abd519f99e631853ab98992a0d518a4bb12d4e4afca5c8b"
 metafile = true
 
 [[files]]
-file = "plugins/orebfuscator"
+file = "plugins/orebfuscator.pw.toml"
 hash = "c8cfe228d62a91e4882d1407723b8a05ae93831a7f1c601f3d8b3ba67ba3e410"
+metafile = true
+
+[[files]]
+file = "plugins/rapid-leaf-decay.pw.toml"
+hash = "9616aa0262d1039359656fc0983448cc0e15a390002608791a3463b3649773de"
+metafile = true
 
 [[files]]
 file = "plugins/spark.pw.toml"
