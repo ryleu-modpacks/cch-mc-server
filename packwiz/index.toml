@@ -90,11 +90,6 @@ hash = "c8cfe228d62a91e4882d1407723b8a05ae93831a7f1c601f3d8b3ba67ba3e410"
 metafile = true
 
 [[files]]
-file = "plugins/rapid-leaf-decay.pw.toml"
-hash = "9616aa0262d1039359656fc0983448cc0e15a390002608791a3463b3649773de"
-metafile = true
-
-[[files]]
 file = "plugins/spark.pw.toml"
 hash = "d82192a1a578c1cf9ca4d3a6f485e59ad5076060cff3dc41c142b73a93e32eb0"
 metafile = true
