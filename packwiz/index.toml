@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "plugins/AutoTreeChop/config.yml"
-hash = "270dd66f346cfc5dd72a6220a9c08522cbcf2ab0dd73b976640a44d81aec7d48"
-
-[[files]]
 file = "plugins/BlueMap/core.conf"
 hash = "d696f3229b44fe66ca6ae219cbf9483683e9c5d4bfb0db198a8d24a3cc82c5ec"
 
@@ -43,11 +39,6 @@ hash = "0c8a3f7770c197b6ad51e4fe4e033cc15bc4899abdc7a15d7dbcffd433c19e29"
 [[files]]
 file = "plugins/Chunky/config.yml"
 hash = "4b7166a3fb9b059def2874c2c64670e2adcfbc6f194a1174fb1465bbb1525cec"
-
-[[files]]
-file = "plugins/autotreechop.pw.toml"
-hash = "2cd4d9d4d5c9dedbf1bfa44fa44c78a2186711ee19fb60a7be68148ffd3730b5"
-metafile = true
 
 [[files]]
 file = "plugins/axgraves.pw.toml"
@@ -97,4 +88,9 @@ metafile = true
 [[files]]
 file = "plugins/viaversion.pw.toml"
 hash = "20fdd657093f3b52d15ebedf6acfa5a44f2334ef31a8d0866076895cd848a291"
+metafile = true
+
+[[files]]
+file = "world/datapacks/tree-chopping.pw.toml"
+hash = "853c44205cbfa53d4e71cf00f18dc3b44a7585fb65d5da59b177c5b01a310cd9"
 metafile = true
