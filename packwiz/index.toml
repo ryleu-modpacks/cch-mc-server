@@ -41,6 +41,11 @@ file = "plugins/Chunky/config.yml"
 hash = "4b7166a3fb9b059def2874c2c64670e2adcfbc6f194a1174fb1465bbb1525cec"
 
 [[files]]
+file = "plugins/autotreechop.pw.toml"
+hash = "2cd4d9d4d5c9dedbf1bfa44fa44c78a2186711ee19fb60a7be68148ffd3730b5"
+metafile = true
+
+[[files]]
 file = "plugins/axgraves.pw.toml"
 hash = "61181928b42e80187f35f7c2a418c8e62508315908ceffe3a69f08a210653f56"
 metafile = true
