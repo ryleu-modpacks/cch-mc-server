@@ -11,15 +11,15 @@ services:
     restart: always
     environment:
       TYPE: "FOLIA"
-      PACKWIZ_URL: "https://ryleu.me/cch-mc-server/packwiz/pack.toml"
+      PACKWIZ_URL: "https://modpacks.ryleu.me/cch-mc-server/packwiz/pack.toml"
       EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
       SEED: "-7203507603979108244"
       SPAWN_PROTECTION: 0
       VIEW_DISTANCE: 12
-      OPS_FILE: "https://ryleu.me/cch-mc-server/minecraft/ops.json"
-      WHITELIST_FILE: "https://ryleu.me/cch-mc-server/minecraft/whitelist.json"
+      OPS_FILE: "https://modpacks.ryleu.me/cch-mc-server/minecraft/ops.json"
+      WHITELIST_FILE: "https://modpacks.ryleu.me/cch-mc-server/minecraft/whitelist.json"
       MEMORY: "6G"
       USE_AIKAR_FLAGS: true
       VERSION: "1.20.2"
